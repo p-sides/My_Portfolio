@@ -4,6 +4,7 @@
 * Explored how to configure code and images to display on a portfolio
 
 Currently testing out how to add images, code, and fully customize paragraphs for presentation purposes.
+
 Here's an image!
 
 ![](/images/testimage.JPG)
