@@ -8,3 +8,7 @@ Currently testing out how to add images, code, and fully customize paragraphs fo
 Here's an image!
 
 ![](/images/testimage.JPG)
+
+# Project 2: Improving DOTA Professional Match Outcome Prediction
+* Built a hero metric dashboard utilizing Tableau
+* Generated win/loss topographical KDE plots for critical hero metrics 
